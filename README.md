@@ -40,7 +40,7 @@ Sou estudante de ADS com experiência em desenvolvimento web e projetos de softw
 
 ## Como me encontrar
 📧 E-mail: biancaisabelle@gmail.com 
-🔗 LinkedIn: [[linkedin.com/in/bianca](https://www.linkedin.com/in/bianca](https://www.linkedin.com/in/bianca-nunes-b0513734b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-🔗 GitHub: [github.com/bianca](https://github.com/bianunees/)
+🔗 LinkedIn: [(https://www.linkedin.com/in/bianca-nunes-b0513734b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)] 
+🔗 GitHub: [github.com/bianca](https://github.com/bianunees/)]
 
 Vamos conectar e compartilhar conhecimento! 🚀
