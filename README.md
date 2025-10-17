@@ -34,10 +34,7 @@ Sou estudante de ADS com experiência em desenvolvimento web e projetos de softw
 ---
 
 ## Projetos em Destaque
-- [Sistema de Gestão de Obras](https://github.com/seuusuario/sistema-gestao-obras)  
-  Sistema para controle de clientes, projetos e orçamentos utilizando C# e ADO.NET.
-- [Automação residencial com ESP32](https://github.com/seuusuario/automacao-esp32)  
-  Projeto de TCC com controle de ambiente e monitoramento usando ESP32 e C++.
+  desenvolvimento de aplicação para a toyota no projeto TechMob 4.0
 
 ---
 
