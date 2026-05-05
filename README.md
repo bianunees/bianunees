@@ -35,39 +35,14 @@ Gosto de criar soluções que facilitem a vida das pessoas e impactem positivame
 
 ## 💻 Tecnologias e Ferramentas  
 
-### 🧠 Linguagens  
-C# | HTML | CSS | JavaScript | Python  
-
-### ⚙️ Frameworks  
-.NET | ADO.NET  
-
-### 🗄️ Banco de Dados  
-SQL Server | MySQL  
-
-### 🛠️ Ferramentas  
-Visual Studio | Git | GitHub  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,html,css,js,python,dotnet,mysql,git,github,visualstudio" />
+</p>
 
 ---
 
 ## 📌 Projetos em Destaque  
 🚗 Desenvolvimento de aplicação para a Toyota no projeto TechMob 4.0  
-
----
-
-## 📊 Estatísticas do GitHub  
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bianca&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bianca&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 👀 Visitantes  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bianca&color=6a11cb" alt="contador de visitas"/>
-</p>
 
 ---
 
